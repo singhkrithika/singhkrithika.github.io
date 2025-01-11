@@ -216,6 +216,19 @@ footer {
     font-size: 20px;
 }
 
+.contact-about {
+    position: absolute; 
+    top: 110%; 
+    left: 36%; 
+    background-color: rgba(255, 255, 255, 0.9); 
+    color: black;
+    padding: 25px;             
+    max-width: 900px; 
+    width: 100%; 
+    border-radius: 8px; 
+    font-size: 20px;
+}
+
 .pic2 {
     position: absolute;
     top: 35%;
