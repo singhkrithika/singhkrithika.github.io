@@ -219,11 +219,11 @@ footer {
 .contact-about {
     position: absolute; 
     top: 32%; 
-    left: 36%; 
+    left: 20%; 
     background-color: rgba(255, 255, 255, 0.9); 
     color: black;
     padding: 25px;             
-    max-width: 300px; 
+    max-width: 700px; 
     width: 100%; 
     border-radius: 8px; 
     font-size: 20px;
